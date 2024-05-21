@@ -33,18 +33,5 @@ defaults:
     # cv
     - scope:
         path: ""
-        type: cv
       values:
-        layout: single
-        author_profile: true
-        share: true
-        comment: true
-    # services
-    - scope:
-        path: ""
-        type: services
-      values:
-        layout: single
-        author_profile: true
-        share: true
-        comment: true
+        layout: "default"

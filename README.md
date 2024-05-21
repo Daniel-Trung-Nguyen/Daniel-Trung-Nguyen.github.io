@@ -6,8 +6,8 @@
 ## BIOSKETCH
 
 I am a Principal Scientist, based in Brisbane, Australia. My specialization includes ecosystem modeling, remote sensing, spatial analysis, life cycle assessment, big data, and machine learning for agricultural systems. I was a Fulbright Scholar and a U.S. National Science Foundation Graduate Fellow at the Natural Resource Ecology Laboratory at Colorado State University, a leading institution in the U.S. for soil carbon and sustainability research. I served as one of the main developers of the DayCent ecosystem model at Colorado State University (CSU). Throughout my career, I have developed multiple decision-support applications using process-based ecosystem models. These include Comet Farm (used by the USDA), Soil Metrics (used by Indigo Ag), Ag-EcoSOpt (used by Shell Oil Company), and DayCent-AU and SOCRATES soil carbon models (currently under development at the Queensland University of Technology (QUT)). I also possess exemplary leadership experience, having led integrated environmental assessment projects at the Shell Technology Centre in Houston (USA), CSU, and QUT. Additionally, I have contributed to the development of the Australian Carbon Credit Methodology Determination 2021, the official Australian soil carbon credit calculators, and the grazingDNDC model at Regrow.
-- **CV**: http://bit.ly/trung_cv2 
-- **Biosketch**: https://bit.ly/trung_cover_letter 
+- **CV**: [Link](http://bit.ly/trung_cv2) 
+- **Full Biosketch**: [Link](https://bit.ly/trung_cover_letter) 
 
 
 ## EDUCATION
@@ -153,11 +153,3 @@ This outline details the tasks involved in conducting a carbon project following
 ### 17. Support Iteration with VVB and Verra for Carbon Credit Issuance
 17.1. Respond to comments and requests from VVB during the verification of ERRs and from Verra during the verification approval request.  
 17.2. Assist in making necessary revisions to the verification reports and other supporting documentation based on Verra feedback.
-
-## Service Tiers
-
-| Tier | My Role | Time Allocation | What Does This Mean to you? | What Does It Mean to the Project Progression? |
-|------|---------|-----------------|---------------------------------------|-----------------------------------------------|
-| Tier 1 | Support / Consulting | 5 - 10 hours | - I will support the team with setting directions and completing well-defined tasks and subtasks within the time budget. Requirements from you: - an experienced project manager to arrange and delegate tasks, evaluate performance and progress. - supporting staff such as senior/junior modelers (1-2) | Slower (depending on the learning curve and management efficiency) |
-| Tier 2 | Co-pilot | 10 - 15 hours | - Tier 1 + I can help manage part of the project and pilot certain components as time allowed. Requirements from you: - a junior project manager - supporting staff (1) | Fast |
-| Tier 3 | Pilot | 15 - 20 hours | - I will manage the project and delegate tasks. - I will oversee the modeling activities - I will complete required tasks and subtasks within the time budget. Requirements from you: - supporting staff (1) | Fastest (I would expect this to cut the time by half) |
