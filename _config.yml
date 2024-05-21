@@ -1,5 +1,23 @@
-title: Trung Nguyen
-logo: /assets/img/3.jpg
-description: Principal Scientist | Consultant
-show_download: false
+# title: Trung Nguyen
+# logo: /assets/img/3.jpg
+# description: Principal Scientist | Consultant
+# show_download: false
 theme: jekyll-theme-minimal
+
+# MORE CUSTOMIZATION: https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml
+# Video tutorial: https://www.youtube.com/watch?v=8lJhXJCUYCc 
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : /assets/img/3.jpg
+  name             : "Trung Nguyen"
+  pronouns         : # example: "she/her"  
+  bio              : Principal Scientist | Consultant
+  location         : Brisbane, Australia
+  email            : nguyentrung1710@gmail.com 
+
+  # Social media
+  linkedin         : trung-nguyen-3bb2a782
+  youtube          : daycentmodel9086
