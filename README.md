@@ -2,6 +2,7 @@
 
 **Mobile:** +61 404 684 218  
 **Email:** nguyentrung1710@gmail.com  
+**Linkedin:** [Link](https://www.linkedin.com/in/trung-nguyen-3bb2a782/)
 
 ## BIOSKETCH
 
