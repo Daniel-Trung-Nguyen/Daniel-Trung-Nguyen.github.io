@@ -2,14 +2,14 @@
 
 **Mobile:** +61 404 684 218  
 **Email:** nguyentrung1710@gmail.com  
-**Linkedin:** [Link](https://www.linkedin.com/in/trung-nguyen-3bb2a782/)
+**Linkedin:** [Link](https://www.linkedin.com/in/trung-nguyen-3bb2a782/){:target="_blank"}
 
 ## BIOSKETCH
 
-I am a Principal Scientist, based in Brisbane, Australia. My specialization includes ecosystem modeling, remote sensing, spatial analysis, life cycle assessment, big data, and machine learning for agricultural systems. I was a Fulbright Scholar and a U.S. National Science Foundation Graduate Fellow at the Natural Resource Ecology Laboratory at Colorado State University, a leading institution in the U.S. for soil carbon and sustainability research. I served as one of the main developers of the DayCent ecosystem model at Colorado State University (CSU). Throughout my career, I have developed multiple decision-support applications using process-based ecosystem models. These include Comet Farm (used by the USDA), Soil Metrics (used by Indigo Ag), Ag-EcoSOpt (used by Shell Oil Company), DayCent-AU soil carbon model (Queensland University of Technology QUT), ForeSiteTM (Ukko Ag), and the California Resiliency Index (CaRI) at California State University (CHICO). I also possess exemplary leadership experience, having led integrated environmental assessment projects at the Shell Technology Centre in Houston (USA), CSU, QUT, and CHICO. Additionally, I have contributed to the development of the Australian Carbon Credit Methodology Determination 2021, the official Australian soil carbon credit calculators, and the development of the grazingDNDC model at Regrow.
+I am a Principal Scientist, based in Brisbane, Australia. My specialization includes ecosystem modeling, remote sensing, spatial analysis, life cycle assessment, big data, and machine learning for agricultural systems. I was a Fulbright Scholar and a U.S. National Science Foundation Graduate Fellow at the Natural Resource Ecology Laboratory at Colorado State University, a leading institution in the U.S. for soil carbon and sustainability research. I served as one of the main developers of the DayCent ecosystem model at Colorado State University (CSU). Throughout my career, I have developed multiple decision-support applications using process-based ecosystem models. These include Comet Farm (USDA), Soil Metrics (Indigo Ag), Ag-EcoSOpt (Shell Oil Company), DayCent-AU soil carbon model (Queensland University of Technology QUT), ForeSiteTM (Ukko Ag), and the California Resiliency Index (CaRI) at California State University (CHICO). I also possess exemplary leadership experience, having led integrated environmental assessment projects at the Shell Technology Centre in Houston (USA), CSU, QUT, and CHICO. Additionally, I have contributed to the development of the Australian Carbon Credit Methodology Determination 2021, the official Australian soil carbon credit calculators, and the development of the grazingDNDC model at Regrow.
 
-- **CV**: [Link](http://bit.ly/trung_cv2) 
-- **Full Biosketch**: [Link](https://bit.ly/trung_cover_letter) 
+- **CV**: [Link](http://bit.ly/trung_cv2){:target="_blank"} 
+- **Full Biosketch**: [Link](https://bit.ly/trung_cover_letter){:target="_blank"} 
 
 
 ## EDUCATION
@@ -33,20 +33,20 @@ I am a Principal Scientist, based in Brisbane, Australia. My specialization incl
 
 ## TOP RESEARCH OUTPUTS
 
-1. **Model development** – Nguyen, T.H. (2023). Development of the grazingDNDC module for Regrow Ag’s MRV platform. [Link](https://www.regrow.ag/platform/mrv)
-2. **Model development** – Nguyen, T.H. (2021). Development of the automated baseline spinup module for the Soil Metrics Global Greenhouse Inventory Tool. [Link](https://soilmetrics.eco/technology/)
+1. **Model development** – Nguyen, T.H. (2023). Development of the grazingDNDC module for Regrow Ag’s MRV platform. [Link](https://www.regrow.ag/platform/mrv){:target="_blank"}
+2. **Model development** – Nguyen, T.H. (2021). Development of the automated baseline spinup module for the Soil Metrics Global Greenhouse Inventory Tool. [Link](https://soilmetrics.eco/technology/){:target="_blank"}
 3. **Model development** – Nguyen, T.H. (2018). Development of Ecosystem Services and Land Use Change Optimization tool (ESLUCO) and the Agricultural Ecosystem Service Optimization (Ag-EcoSOpt) tool for Shell Oil Company to optimise land use change and feedstock production for biofuels.
-4. **Model development** – Nguyen, T.H. (2018). Development of the Agroforestry module for the COMET-Farm™ platform. [Link](http://comet-farm.com/)
-5. **Journal paper** – Nguyen, T.H., Field, J.L., Kwon, H., Hawkins, T.R., Paustian, K., Wang, M.Q., (2022). A multi-product landscape life-cycle assessment approach for evaluating local climate mitigation potential. *Journal of Cleaner Production*, 354, 131691. [Link](https://doi.org/10.1016/j.jclepro.2022.131691)
-6. **Journal paper** – Nguyen, T.H., Nong, D., Paustian, K., (2019). Surrogate-based multi-objective optimization of management options for agricultural landscapes using artificial neural networks. *Ecol. Model.*, 400, 1–13. [Link](https://doi.org/10.1016/j.ecolmodel.2019.02.018)
-7. **Journal paper** – Nguyen, T.H., Granger, J., Pandya, D., Paustian, K., (2019). High-resolution multi-objective optimization of feedstock landscape design for hybrid first and second generation biorefineries. *Appl. Energy*, 238, 1484–1496. [Link](https://doi.org/10.1016/j.apenergy.2019.01.117)
-8. **Journal paper** – Nguyen, T.H., Cook, M., Field, J.L., Khuc, Q.V., Paustian, K., (2018). High-resolution trade-off analysis and optimization of ecosystem services and disservices in agricultural landscapes. *Environ. Model. Softw.*, 107, 105–118. [Link](https://doi.org/10.1016/j.envsoft.2018.06.006)
-9. **Journal paper** – Nguyen, T.H., Williams, S., Paustian, K., (2017). Impact of ecosystem carbon stock change on greenhouse gas emissions and carbon payback periods of cassava-based ethanol in Vietnam. *Biomass Bioenergy*, 100, 126–137. [Link](https://doi.org/10.1016/j.biombioe.2017.02.009)
-10. **Final Report** – Nguyen, T.H., Grace, P., (2022). Filling the spatial gaps for low-cost soil carbon measurement in rangelands. Department of Industry, Science and Resources. [Link](https://doi.org/10.6084/m9.figshare.21393177.v1)
-11. **Final Report** – Nguyen, T.H., Grace, P., (2021). Spatio-temporal prediction of pasture dieback using UAVs and remote sensing. Meat & Livestock Australia. [Link](https://doi.org/10.6084/m9.figshare.21393114.v1)
+4. **Model development** – Nguyen, T.H. (2018). Development of the Agroforestry module for the COMET-Farm™ platform. [Link](http://comet-farm.com/){:target="_blank"}
+5. **Journal paper** – Nguyen, T.H., Field, J.L., Kwon, H., Hawkins, T.R., Paustian, K., Wang, M.Q., (2022). A multi-product landscape life-cycle assessment approach for evaluating local climate mitigation potential. *Journal of Cleaner Production*, 354, 131691. [Link](https://doi.org/10.1016/j.jclepro.2022.131691){:target="_blank"}
+6. **Journal paper** – Nguyen, T.H., Nong, D., Paustian, K., (2019). Surrogate-based multi-objective optimization of management options for agricultural landscapes using artificial neural networks. *Ecol. Model.*, 400, 1–13. [Link](https://doi.org/10.1016/j.ecolmodel.2019.02.018){:target="_blank"}
+7. **Journal paper** – Nguyen, T.H., Granger, J., Pandya, D., Paustian, K., (2019). High-resolution multi-objective optimization of feedstock landscape design for hybrid first and second generation biorefineries. *Appl. Energy*, 238, 1484–1496. [Link](https://doi.org/10.1016/j.apenergy.2019.01.117){:target="_blank"}
+8. **Journal paper** – Nguyen, T.H., Cook, M., Field, J.L., Khuc, Q.V., Paustian, K., (2018). High-resolution trade-off analysis and optimization of ecosystem services and disservices in agricultural landscapes. *Environ. Model. Softw.*, 107, 105–118. [Link](https://doi.org/10.1016/j.envsoft.2018.06.006){:target="_blank"}
+9. **Journal paper** – Nguyen, T.H., Williams, S., Paustian, K., (2017). Impact of ecosystem carbon stock change on greenhouse gas emissions and carbon payback periods of cassava-based ethanol in Vietnam. *Biomass Bioenergy*, 100, 126–137. [Link](https://doi.org/10.1016/j.biombioe.2017.02.009){:target="_blank"}
+10. **Final Report** – Nguyen, T.H., Grace, P., (2022). Filling the spatial gaps for low-cost soil carbon measurement in rangelands. Department of Industry, Science and Resources. [Link](https://doi.org/10.6084/m9.figshare.21393177.v1){:target="_blank"}
+11. **Final Report** – Nguyen, T.H., Grace, P., (2021). Spatio-temporal prediction of pasture dieback using UAVs and remote sensing. Meat & Livestock Australia. [Link](https://doi.org/10.6084/m9.figshare.21393114.v1){:target="_blank"}
 
 ## SERVICES
-**Supporting Carbon Projects with VM0042's Quantification Approach 1, Measure-Model** 
+### Supporting Carbon Projects with VM0042's Quantification Approach 1, Measure-Model
 
 This outline details the tasks involved in conducting a carbon project following Verra's VM0042 Methodology (Quantification Approach 1: Measure-Model) and utilizing DayCent biogeochemical model (or other process-based models). The project will require model validation using Verra's VMD0053 methodology and a subsequent validation report. Staff training on model usage and model management are also included.
 
