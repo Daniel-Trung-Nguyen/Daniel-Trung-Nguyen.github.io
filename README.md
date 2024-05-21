@@ -1,11 +1,12 @@
-# Trung Huu NGUYEN
+# CONTACT
 
 **Mobile:** +61 404 684 218  
 **Email:** nguyentrung1710@gmail.com  
 
 ## BIOSKETCH
 
-I am a Principal Scientist, based in Brisbane, Australia. My specialization includes ecosystem modeling, remote sensing, spatial analysis, life cycle assessment, big data, and machine learning for agricultural systems. I was a Fulbright Scholar and a U.S. National Science Foundation Graduate Fellow at the Natural Resource Ecology Laboratory at Colorado State University, a leading institution in the U.S. for soil carbon and sustainability research. I served as one of the main developers of the DayCent ecosystem model at Colorado State University (CSU). Throughout my career, I have developed multiple decision-support applications using process-based ecosystem models. These include Comet Farm (used by the USDA), Soil Metrics (used by Indigo Ag), Ag-EcoSOpt (used by Shell Oil Company), and DayCent-AU and SOCRATES soil carbon models (currently under development at the Queensland University of Technology (QUT)). I also possess exemplary leadership experience, having led integrated environmental assessment projects at the Shell Technology Centre in Houston (USA), CSU, and QUT. Additionally, I have contributed to the development of the Australian Carbon Credit Methodology Determination 2021, the official Australian soil carbon credit calculators, and the grazingDNDC model at Regrow.
+I am a Principal Scientist, based in Brisbane, Australia. My specialization includes ecosystem modeling, remote sensing, spatial analysis, life cycle assessment, big data, and machine learning for agricultural systems. I was a Fulbright Scholar and a U.S. National Science Foundation Graduate Fellow at the Natural Resource Ecology Laboratory at Colorado State University, a leading institution in the U.S. for soil carbon and sustainability research. I served as one of the main developers of the DayCent ecosystem model at Colorado State University (CSU). Throughout my career, I have developed multiple decision-support applications using process-based ecosystem models. These include Comet Farm (used by the USDA), Soil Metrics (used by Indigo Ag), Ag-EcoSOpt (used by Shell Oil Company), DayCent-AU soil carbon model (Queensland University of Technology QUT), ForeSiteTM (Ukko Ag), and the California Resiliency Index (CaRI) at California State University (CHICO). I also possess exemplary leadership experience, having led integrated environmental assessment projects at the Shell Technology Centre in Houston (USA), CSU, QUT, and CHICO. Additionally, I have contributed to the development of the Australian Carbon Credit Methodology Determination 2021, the official Australian soil carbon credit calculators, and the development of the grazingDNDC model at Regrow.
+
 - **CV**: [Link](http://bit.ly/trung_cv2) 
 - **Full Biosketch**: [Link](https://bit.ly/trung_cover_letter) 
 
@@ -16,8 +17,8 @@ I am a Principal Scientist, based in Brisbane, Australia. My specialization incl
 - **Ph.D. (Soil and Crop Sciences), 2018**, Colorado State University (CSU), Fort Collins, CO, USA.
 
 ## RELEVANT PROFESSIONAL ACTIVITIES
-
-- **2023** Principal scientist, leading the development of grazingDNDC model for use in Regrow’s MRV platform and MRVsolution for small holder rice systems.
+- **2024** Developing the open-source web-based model called the California Resiliency Index (CaRI), a regenerative conservation planning tool.
+- **2023** Principal scientist, leading the development of grazingDNDC model for use in Regrow’s MRV platform and MRV solution for small holder rice systems.
 - **2022** Principal investigator of the National Soil Carbon Innovation Challenge – Development and Demonstration Grants, by Department of Industry, Science and Resources.
 - **2022** Chief investigator of the National Soil Carbon Innovation Challenge – Feasibility Study Grants, by Department of Industry, Science and Resources.
 - **2022** Developer of the 2021 soil carbon credit calculator for the Clean Energy Regulator.
