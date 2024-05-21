@@ -11,13 +11,40 @@ theme: jekyll-theme-minimal
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /assets/img/3.jpg
+  avatar           : "3.jpg"
   name             : "Trung Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : Principal Scientist | Consultant
-  location         : Brisbane, Australia
-  email            : nguyentrung1710@gmail.com 
+  bio              : "Principal Scientist | Consultant"
+  location         : "Brisbane, Australia"
+  email            : "nguyentrung1710@gmail.com" 
 
   # Social media
-  linkedin         : trung-nguyen-3bb2a782
-  youtube          : daycentmodel9086
+  linkedin         : "trung-nguyen-3bb2a782"
+  youtube          : "daycentmodel9086"
+
+# Reading Files
+include:
+  - files
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Defaults
+defaults:
+    # cv
+    - scope:
+        path: ""
+        type: cv
+      values:
+        layout: single
+        author_profile: true
+        share: true
+        comment: true
+    # services
+    - scope:
+        path: ""
+        type: services
+      values:
+        layout: single
+        author_profile: true
+        share: true
+        comment: true
