@@ -58,7 +58,7 @@ This outline details the tasks involved in conducting a carbon project following
 2.4. Provide hands-on training on model setup, calibration, and validation processes.  
 2.5. Evaluate staff proficiency through practical exercises.
 
-### 3. DayCent Model Maintenance
+### 3. Model Maintenance
 3.1. Establish a version control system to track model updates and changes.  
 3.2. Establish protocols for model usage, updates, and version control.  
 3.3. Maintain detailed documentation for all model versions, updates, and changes.
