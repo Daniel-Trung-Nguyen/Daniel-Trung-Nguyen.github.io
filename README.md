@@ -1,9 +1,3 @@
-# CONTACT
-
-**Mobile:** +61 404 684 218  
-**Email:** nguyentrung1710@gmail.com  
-**Linkedin:** [Link](https://www.linkedin.com/in/trung-nguyen-3bb2a782/){:target="_blank"}
-
 ## BIOSKETCH
 
 I am a Principal Scientist, based in Brisbane, Australia. My specialization includes ecosystem modeling, remote sensing, spatial analysis, life cycle assessment, big data, and machine learning for agricultural systems. I was a Fulbright Scholar and a U.S. National Science Foundation Graduate Fellow at the Natural Resource Ecology Laboratory at Colorado State University, a leading institution in the U.S. for soil carbon and sustainability research. I served as one of the main developers of the DayCent ecosystem model at Colorado State University (CSU). Throughout my career, I have developed multiple decision-support applications using process-based ecosystem models. These include Comet Farm (USDA), Soil Metrics (Indigo Ag), Ag-EcoSOpt (Shell Oil Company), DayCent-AU soil carbon model (Queensland University of Technology QUT), ForeSiteTM (Ukko Ag), and the California Resiliency Index (CaRI) at California State University (CHICO). I also possess exemplary leadership experience, having led integrated environmental assessment projects at the Shell Technology Centre in Houston (USA), CSU, QUT, and CHICO. Additionally, I have contributed to the development of the Australian Carbon Credit Methodology Determination 2021, the official Australian soil carbon credit calculators, and the development of the grazingDNDC model at Regrow.
@@ -21,7 +15,7 @@ I am a Principal Scientist, based in Brisbane, Australia. My specialization incl
 - **2024** Developing the open-source web-based model called the California Resiliency Index (CaRI), a regenerative conservation planning tool.
 - **2023** Principal scientist, leading the development of grazingDNDC model for use in Regrow’s MRV platform and MRV solution for small holder rice systems.
 - **2022** Principal investigator of the National Soil Carbon Innovation Challenge – Development and Demonstration Grants, by Department of Industry, Science and Resources.
-- **2022** Chief investigator of the National Soil Carbon Innovation Challenge – Feasibility Study Grants, by Department of Industry, Science and Resources.
+- **2022** Principal investigator of the National Soil Carbon Innovation Challenge – Feasibility Study Grants, by Department of Industry, Science and Resources.
 - **2022** Developer of the 2021 soil carbon credit calculator for the Clean Energy Regulator.
 - **2021** Chief investigator of the Meat & Livestock Australia’s pasture dieback project.
 - **2021** Technical reviewer for the 2021 Carbon Credits (Carbon Farming Initiative—Estimation of Soil Organic Carbon Sequestration using Measurement and Models) Methodology Determination for the Clean Energy Regulator, Australian Government.

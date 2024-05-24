@@ -1,11 +1,20 @@
 title: Trung Nguyen
 logo: /assets/img/3.jpg
-description: Principal Scientist | Consultant
+description: >
+  Principal Scientist | Consultant | Expert in MRV & Regenerative Agriculture
+  <br><br>
+  <a href="https://www.linkedin.com/in/trung-nguyen-3bb2a782/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
+  <br><br>
+  <a href="mailto:nguyentrung1710@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-blue?logo=gmail"> </a>
 show_download: false
 theme: jekyll-theme-minimal
 
+github:
+  is_project_page: false
+
 # MORE CUSTOMIZATION: https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml
 # Video tutorial: https://www.youtube.com/watch?v=8lJhXJCUYCc 
+# Edit minimal theme: https://github.com/jacoblundeen/jacoblundeen.github.io/blob/master/README.md 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
