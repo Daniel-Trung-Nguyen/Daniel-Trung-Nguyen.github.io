@@ -36,9 +36,9 @@ I am a Principal Scientist, based in Brisbane, Australia. My specialization incl
 7. **Journal paper** – Nguyen, T.H., Granger, J., Pandya, D., Paustian, K., (2019). High-resolution multi-objective optimization of feedstock landscape design for hybrid first and second generation biorefineries. *Appl. Energy*, 238, 1484–1496. [Link](https://doi.org/10.1016/j.apenergy.2019.01.117){:target="_blank"}
 8. **Journal paper** – Nguyen, T.H., Cook, M., Field, J.L., Khuc, Q.V., Paustian, K., (2018). High-resolution trade-off analysis and optimization of ecosystem services and disservices in agricultural landscapes. *Environ. Model. Softw.*, 107, 105–118. [Link](https://doi.org/10.1016/j.envsoft.2018.06.006){:target="_blank"}
 9. **Journal paper** – Nguyen, T.H., Williams, S., Paustian, K., (2017). Impact of ecosystem carbon stock change on greenhouse gas emissions and carbon payback periods of cassava-based ethanol in Vietnam. *Biomass Bioenergy*, 100, 126–137. [Link](https://doi.org/10.1016/j.biombioe.2017.02.009){:target="_blank"}
-10. **Final Report** – Nguyen, T.H., Grace, P., (2022). Filling the spatial gaps for low-cost soil carbon measurement in rangelands. Department of Industry, Science and Resources. [Link](https://doi.org/10.6084/m9.figshare.21393177.v1){:target="_blank"}
+<!-- 10. **Final Report** – Nguyen, T.H., Grace, P., (2022). Filling the spatial gaps for low-cost soil carbon measurement in rangelands. Department of Industry, Science and Resources. [Link](https://doi.org/10.6084/m9.figshare.21393177.v1){:target="_blank"}
 11. **Final Report** – Nguyen, T.H., Grace, P., (2021). Spatio-temporal prediction of pasture dieback using UAVs and remote sensing. Meat & Livestock Australia. [Link](https://doi.org/10.6084/m9.figshare.21393114.v1){:target="_blank"}
-12. **Final Report** – Nguyen, T.H., Rowlings, D., (2022) Soil carbon sequestration potential at Coomera. [Link](https://doi.org/10.6084/m9.figshare.25886059){:target="_blank"}
+12. **Final Report** – Nguyen, T.H., Rowlings, D., (2022) Soil carbon sequestration potential at Coomera. [Link](https://doi.org/10.6084/m9.figshare.25886059){:target="_blank"} -->
 
 ## SERVICES
 ### Supporting Carbon Projects with VM0042's Quantification Approach 1, Measure-Model
